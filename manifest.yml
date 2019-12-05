@@ -1,5 +1,5 @@
 applications:
-  name: sahu
+- name: sahu
   memory: 512m
   instances: 1
   buildpack: staticfile_buildpack
